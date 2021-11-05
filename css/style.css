@@ -3,7 +3,7 @@ html {
 }
 
 body {
-    background: url(../img/meitrix.gif);
+    background: url("../img/meitrix.gif");
     margin: 0;
     padding: 0; 
     box-sizing: border-box;
@@ -63,6 +63,7 @@ body {
     padding: 35px 75px;
     text-align: justify;
     border: 1px solid #03e203;
+    background: url("../img/meitrix.gif");
 
 }
 
